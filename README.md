@@ -7,3 +7,4 @@ use Python and SQLAlchemy to do a basic climate analysis and data exploration of
 comment
 # Acknowledgements
 https://stackoverflow.com/ - how to display the columns in the tables
+https://sparkbyexamples.com/ - how to add column names
